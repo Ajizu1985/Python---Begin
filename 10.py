@@ -1,0 +1,14 @@
+#Exs 10
+
+a = 5
+b = 15
+
+A = a + b
+B = a * b
+C = a * a
+D = b * b
+
+print("Total is: ", A)
+print("Multiple is: ", B)
+print("Power of a is: ", C)
+print("Power of b is: ", D)
